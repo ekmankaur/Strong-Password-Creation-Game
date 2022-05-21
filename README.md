@@ -9,6 +9,8 @@ The program does the following based on provided requirements:
   - Question user's knowlegde regarding correct way to store the password
 
 Screenshot: 
+
+
 ![image](https://user-images.githubusercontent.com/84930346/169653448-21e9c601-5648-4254-9b08-856ab1dc02b4.png)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
